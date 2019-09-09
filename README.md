@@ -9,6 +9,23 @@
 # 使用方法
 1. 在ubuntu LTS 上部署KMS
 2. 安装node.js
-3. 运行sudo npm install 安装node端kurento client
+3. 运行sudo npm install 
 # 注意
 1. 在ubuntu上，"postinstall": "cd static && bower install" 要写为 "postinstall": "cd static && bower install --allow-root"
+# 参考资料
+1. Kurento Tutorials
+   1. Node.js - One to many video call
+   * https://doc-kurento.readthedocs.io/en/6.11.0/tutorials/node/tutorial-one2many.html
+2. JavaScript Kurento Client
+   * https://doc-kurento-zh-cn.readthedocs.io/zh_CN/v6.6.1/_static/langdoc/jsdoc/kurento-client-js/index.html
+   * http://www.voidcn.com/article/p-rviujpmu-bow.html
+3. kurento_utils_js
+   * https://doc-kurento.readthedocs.io/en/6.11.0/features/kurento_utils_js.html 
+4. How to ues coturn
+   * https://doc-kurento.readthedocs.io/en/6.11.0/user/faq.html
+5. 中文教程
+   1. 比较完整的中文文档
+      * https://blog.gmem.cc/webrtc-server-basedon-kurento
+   2. Kurento Utils JS
+      * http://www.voidcn.com/article/p-rviujpmu-bow.html
+   3. https://my.oschina.net/997155658?tab=newest&catalogId=5604714

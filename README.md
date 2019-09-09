@@ -29,3 +29,13 @@
    2. Kurento Utils JS
       * http://www.voidcn.com/article/p-rviujpmu-bow.html
    3. https://my.oschina.net/997155658?tab=newest&catalogId=5604714
+6. chrome webrtc检查工具 chrome://webrtc-internals/
+7. WebRTC和相关技术
+   1. Learning WebRTC
+   2. https://cloud.tencent.com/developer/article/1403674
+   3. P2P ICE https://evilpan.com/2015/12/20/p2p-standard-protocol-ice/
+   4. https://cnodejs.org/topic/54745ac22804a0997d38b32d
+   5. https://www.liangzl.com/get-article-detail-678.html
+   6. P2P技术之STUN、TURN、ICE详解 http://www.52im.net/thread-557-1-1.html
+   7. 拓展 - WebRTC 多视频网络拓扑之三种架构 https://www.cnblogs.com/baitongtong/p/10393802.html
+   8. SDP https://www.jianshu.com/p/94b118b8fd97

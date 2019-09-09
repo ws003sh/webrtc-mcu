@@ -1,0 +1,18 @@
+{
+  "name": "kurento-one2many-call",
+  "version": "6.11.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "cd static && bower install"
+  },
+  "dependencies": {
+    "express": "~4.12.4",
+    "minimist": "^1.1.1",
+    "ws": "^7.1.0",
+    "kurento-client": "Kurento/kurento-client-js"
+  },
+  "devDependencies": {
+    "bower": "^1.4.1"
+  },
+  "__npminstall_done": false
+}

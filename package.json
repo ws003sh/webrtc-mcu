@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "express": "~4.12.4",
-    "minimist": "^1.1.1",
+    "minimist": "^1.2.3",
     "ws": "^7.1.0",
     "kurento-client": "Kurento/kurento-client-js"
   },
